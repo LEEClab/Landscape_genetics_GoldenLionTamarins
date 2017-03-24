@@ -21,9 +21,9 @@ There are two tables (inside the folder [Data](https://github.com/LEEClab/Landsc
 The data refer to:
 
 - [Moraes_etal_data_landscape_genetics_Leontopithecus_rosalia.csv](https://github.com/LEEClab/Landscape_genetics_GoldenLionTamarins/blob/master/Data/Moraes_etal_data_landscape_genetics_Leontopithecus_rosalia.csv): Pairwise kinship between pairs of individuals, information about each individual, and landscape variables related to ecological corridors linking the position of these pairs of individuals.
--
+- [Distance_between_shared_alleles.csv](https://github.com/LEEClab/Landscape_genetics_GoldenLionTamarins/blob/master/Data/Distance_between_shared_alleles.csv): Data on the frequency and position of each location where an individual presented a given allele from a given locus. Locations are presented for both historical (1990's) and recent (around 2010) survey, and the Euclidean and Resistance-based distances were calculated between the nearest historical and recent point of occurence of each allele.
 
-Maps and individual locations were ommited from data, but may be shared under request.
+Individual locations were modified for conservation purposes, but may be shared under request.
 
 ## Citation
 
