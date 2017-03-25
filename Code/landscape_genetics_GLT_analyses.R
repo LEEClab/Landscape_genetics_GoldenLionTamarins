@@ -24,10 +24,10 @@
 #       The combinations are e.g. 12 (native-reintroducted) and 24 (reintroducted-unknown)
 #   - Roads: binary variable, represents whether there are (1) or not (0) roads between the capture
 #       locations of individuals i and j
-#   - Resistance_based_distance: Length of the corridor between the Source_patch and the Target_patch, simulated
-#       using LSCorridors package and considering the least cost path and matrix resistances
-#   - Euclidean_distance: Euclidean distance between the capturelocations of individuals i and j
-#   - Landscape_resistance: Landscae resistance, corresponfing to the total cost of the corridor 
+#   - Resistance_based_distance: average length of corridors between the Source_patch and the Target_patch, simulated
+#       using LSCorridors package, considering the least cost path and matrix resistances
+#   - Euclidean_distance: Euclidean distance between the capture locations of individuals i and j
+#   - Landscape_resistance: landscape resistance, corresponding to the average cost of the corridors 
 #       simulated between the Source_patch and the Target_patch
 #   - Landscape_connectivity: Connectivity index calculated as Euclidean_distance/Landscape_resistance
 #
