@@ -15,7 +15,7 @@
 
 ## Description
 
-This is a repository to share code and data for analysis of landscape genetics for Golden Lion Tamarins (Leontopithecus rosalia) in the Atlantic Forest, Brazil. The data refers to molecular data on 201 individuals, from native, translocated, reintroduced (and unknown) groups, that live within and around the São João river watershed, in the Rio de Janeiro State.
+This is a repository to share code and data for analysis of landscape genetics for Golden Lion Tamarins (_Leontopithecus rosalia_) in the Atlantic Forest, Brazil. The data refers to molecular data on 201 individuals, from native, translocated, reintroduced (and unknown) groups, that live within and around the São João river watershed, in the Rio de Janeiro State.
 
 There are two files (inside the folder [Data](https://github.com/LEEClab/Landscape_genetics_GoldenLionTamarins/tree/master/Data)) and two scripts for analyses (inside the folder [Code](https://github.com/LEEClab/Landscape_genetics_GoldenLionTamarins/tree/master/Code)).
 The data refer to:
