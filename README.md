@@ -2,16 +2,16 @@
 
 ## Authors
 
-Andreia Magro Moraes <<andreia_magro@hotmail.com>>  
-Carlos R. Ruiz-Miranda  
-Pedro M. Galetti Jr.  
-Bernardo B. S. Niebuhr <<bernardo_brandaum@yahoo.com.br>>  
-Brenda R. Alexandre  
-Renata L. Muylaert  
-Adriana D. Grativol  
-John W. Ribeiro  
-Arystene N. Ferreira  
-Milton C. Ribeiro
++ Andreia Magro Moraes <<andreia_magro@hotmail.com>>  
++ Carlos R. Ruiz-Miranda  
++ Pedro M. Galetti Jr.  
++ Bernardo B. S. Niebuhr <<bernardo_brandaum@yahoo.com.br>>  
++ Brenda R. Alexandre  
++ Renata L. Muylaert  
++ Adriana D. Grativol  
++ John W. Ribeiro  
++ Arystene N. Ferreira  
++ Milton C. Ribeiro
 
 ## Description
 
