@@ -31,6 +31,6 @@ A METADATA file may be found with data, describing the data and the columns in e
 
 If you use this data, the scripts, or cite this study, please refer to:
 
-Moraes, Andreia M.; Ruiz-Miranda, Carlos R.; Galetti Jr., Pedro M.; Niebuhr, Bernardo B. S.; Alexandre Brenda A.; Muylaert, Renata L.; Grativol, Adriana D.; Ribeiro, John W.; Ferreira, Arystene N.; Ribeiro, Milton C. 2018. Landscape resistance influences effective dispersal of endangered golden lion tamarins within the Atlantic Forest. Biological Conservation 224: 178-187. DOI: [https://doi.org/10.1016/j.biocon.2018.05.023][https://doi.org/10.1016/j.biocon.2018.05.023]
+Moraes, Andreia M.; Ruiz-Miranda, Carlos R.; Galetti Jr., Pedro M.; Niebuhr, Bernardo B. S.; Alexandre Brenda A.; Muylaert, Renata L.; Grativol, Adriana D.; Ribeiro, John W.; Ferreira, Arystene N.; Ribeiro, Milton C. 2018. Landscape resistance influences effective dispersal of endangered golden lion tamarins within the Atlantic Forest. Biological Conservation 224: 178-187. DOI: [https://doi.org/10.1016/j.biocon.2018.05.023](https://doi.org/10.1016/j.biocon.2018.05.023)
 
 If you have any questions or suggestions, fell free to contact us.
